@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Hao.Ink / 好墨</title>
+   	<link>.</link>
+        <generator>jAlbum 33.3</generator>
+   		<description>Personal Caligraphy Website / 个人练字记录</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="2023.12/album.rss" title="2023.12" thumbnail="2023.12/thumbs/IMG_2950.JPG" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="album/album.rss" title="album" />
+    </channel>
+</rss>
