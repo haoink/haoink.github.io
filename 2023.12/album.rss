@@ -18,5 +18,15 @@
             <media:content type="image/jpeg" url="slides/IMG_2950.JPG" width="629" height="800"/>
             <guid isPermaLink="false">slides/IMG_2950.JPG</guid>
         </item>
+        <item>
+            <title>IMG_1975</title>
+            <link>slides/IMG_1975.html</link>
+            <pubDate>Tue, 26 Dec 2023 15:43:59 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1975.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1975.JPG" width="625" height="800"/>
+            <guid isPermaLink="false">slides/IMG_1975.JPG</guid>
+        </item>
     </channel>
 </rss>
