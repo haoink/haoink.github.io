@@ -14,8 +14,8 @@
             <pubDate>Mon, 25 Dec 2023 22:47:55 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_2950.JPG" width="94" height="120"/>
-            <media:content type="image/jpeg" url="slides/IMG_2950.JPG" width="787" height="1000"/>
+            <media:thumbnail url="thumbs/IMG_2950.JPG" width="157" height="200"/>
+            <media:content type="image/jpeg" url="slides/IMG_2950.JPG" width="708" height="900"/>
             <guid isPermaLink="false">slides/IMG_2950.JPG</guid>
         </item>
         <item>
@@ -24,8 +24,8 @@
             <pubDate>Tue, 26 Dec 2023 15:43:59 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_1975.JPG" width="94" height="120"/>
-            <media:content type="image/jpeg" url="slides/IMG_1975.JPG" width="782" height="1000"/>
+            <media:thumbnail url="thumbs/IMG_1975.JPG" width="156" height="200"/>
+            <media:content type="image/jpeg" url="slides/IMG_1975.JPG" width="704" height="900"/>
             <guid isPermaLink="false">slides/IMG_1975.JPG</guid>
         </item>
         <item>
@@ -34,8 +34,8 @@
             <pubDate>Wed, 27 Dec 2023 18:48:39 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_1979.JPG" width="92" height="120"/>
-            <media:content type="image/jpeg" url="slides/IMG_1979.JPG" width="766" height="1000"/>
+            <media:thumbnail url="thumbs/IMG_1979.JPG" width="153" height="200"/>
+            <media:content type="image/jpeg" url="slides/IMG_1979.JPG" width="689" height="900"/>
             <guid isPermaLink="false">slides/IMG_1979.JPG</guid>
         </item>
     </channel>

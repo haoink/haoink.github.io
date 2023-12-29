@@ -14,8 +14,8 @@
             <pubDate>Fri, 29 Dec 2023 19:59:13 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/2022-06-18.jpg" width="127" height="120"/>
-            <media:content type="image/jpeg" url="slides/2022-06-18.jpg" width="1059" height="1000"/>
+            <media:thumbnail url="thumbs/2022-06-18.jpg" width="212" height="200"/>
+            <media:content type="image/jpeg" url="slides/2022-06-18.jpg" width="953" height="900"/>
             <guid isPermaLink="false">slides/2022-06-18.jpg</guid>
         </item>
         <item>
@@ -24,8 +24,8 @@
             <pubDate>Fri, 29 Dec 2023 19:59:13 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/2022-06-11.jpg" width="101" height="120"/>
-            <media:content type="image/jpeg" url="slides/2022-06-11.jpg" width="840" height="1000"/>
+            <media:thumbnail url="thumbs/2022-06-11.jpg" width="168" height="200"/>
+            <media:content type="image/jpeg" url="slides/2022-06-11.jpg" width="756" height="900"/>
             <guid isPermaLink="false">slides/2022-06-11.jpg</guid>
         </item>
         <item>
@@ -34,8 +34,8 @@
             <pubDate>Fri, 29 Dec 2023 19:59:13 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/2022-06-04.jpg" width="125" height="120"/>
-            <media:content type="image/jpeg" url="slides/2022-06-04.jpg" width="1039" height="1000"/>
+            <media:thumbnail url="thumbs/2022-06-04.jpg" width="208" height="200"/>
+            <media:content type="image/jpeg" url="slides/2022-06-04.jpg" width="935" height="900"/>
             <guid isPermaLink="false">slides/2022-06-04.jpg</guid>
         </item>
     </channel>
