@@ -3,43 +3,49 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Hao.Ink / 好墨</title>
-	<meta name="generator" content="jAlbum 33.3.1 with Plain 2.7, Light.css style, album creation date 2023/12/29 21:35">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-	<meta name="keywords" content="">
-	<meta name="description" content="个人练字记录 / 田英章楷书">
-	<link rel="stylesheet" href="../res/photoswipe/photoswipe.css">
-	<link rel="stylesheet" href="../res/common.css">
-
+	<meta name="generator" content="jAlbum 33.3.1 with Minimal 8.5, light.css style, album creation date 2023/12/29 21:38">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta content="个人练字记录 / 田英章楷书" name="description">
+	<link href="../res/common.css" rel="stylesheet">
+	<link href="../res/styles.css" rel="stylesheet">
+	<script>
+document.onkeydown = function(event) {
+	switch(event.keyCode) {
+		case 27: // esc
+		case 38: // up
+			location.href = '../home.html';
+			break;
+	}
+};
+</script>
 <link rel="alternate" href="album.rss" type="application/rss+xml">
 </head>
-<body id="index-page" class="index  light-mode" data-next-index="" data-previous-index="../2022.04/home.html">
-	<article class="main">
-		<header>
-			<div class="buttons left">
-				<a class="btn" href="../home.html" title="Up"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M14.75,19.5A3.75,3.75,0,0,1,11,15.75V6.37l5.12,5.12,1.06-1.06L10.25,3.5,3.32,10.43l1.06,1.06L9.5,6.37v9.38A5.26,5.26,0,0,0,14.75,21H22V19.5Z" fill="#eee"/></svg></a>
-			</div>
-			<div class="title">
-				<h1 class="page-title">album</h1>
-				<div id="social-buttons" class="sharing"></div>
-			</div>
-			<div class="buttons right empty"></div>
 
+<body id="index-page">
+	<header>
+		<div id="foldertitle">album</div>
+		<div id="foldercomment"></div>
+		
+		<div id="nav">
+			
+			<a class="btn" href="../home.html" title="Up one level"><img src="../res/icon/thin/light/up.svg" alt="Up one level"></a>
+		
+		</div>
+		
+	</header>
 
-
-
-		</header>
-
-		<footer>
-			<div class="creditlink"><a href="https://jalbum.net/zh/" target="_blank">使用 jAlbum 创建相册网站</a></div>
-
-		</footer>
-	</article>
-	<script type="module" src="../res/main.js"></script>
-	<script src="../res/justify.js"></script>
+	
+	
+	<div id="thumbnails" class="folders-only fixed-shape fixed-shape-folders no-border">
+	</div>
+	
+	<footer>
+		<div id="creditlink"><a href="https://jalbum.net/zh/" target="_blank">使用 jAlbum 创建相册网站</a></div>
+	</footer>
 <div id="jalbumwidgetcontainer"></div>
 <script>
-_jaSkin = "Plain";
-_jaStyle = "Light.css";
+_jaSkin = "Minimal";
+_jaStyle = "light.css";
 _jaVersion = "33.3.1";
 _jaGeneratorType = "desktop";
 _jaLanguage = "zh";

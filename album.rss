@@ -8,10 +8,10 @@
         <generator>jAlbum 33.3</generator>
    		<description>个人练字记录 / 田英章楷书</description>
         <jalbum:absolutePath></jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="2023.12/album.rss" title="2023.12" thumbnail="thumbs/2023.12.jpg" thumbnailWidth="238" thumbnailHeight="190" />
-    	<jalbum:link rel="sub" href="2022.06/album.rss" title="2022.06" thumbnail="thumbs/2022.06.jpg" thumbnailWidth="238" thumbnailHeight="190" />
-    	<jalbum:link rel="sub" href="2022.05/album.rss" title="2022.05" thumbnail="thumbs/2022.05.jpg" thumbnailWidth="238" thumbnailHeight="190" />
-    	<jalbum:link rel="sub" href="2022.04/album.rss" title="2022.04" thumbnail="thumbs/2022.04.jpg" thumbnailWidth="238" thumbnailHeight="190" />
+    	<jalbum:link rel="sub" href="2023.12/album.rss" title="2023.12" thumbnail="2023.12/thumbs/IMG_2950.JPG" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2022.06/album.rss" title="2022.06" thumbnail="2022.06/thumbs/2022-06-18.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2022.05/album.rss" title="2022.05" thumbnail="2022.05/thumbs/20220603_045853000_iOS.png" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2022.04/album.rss" title="2022.04" thumbnail="2022.04/thumbs/20220430_151512000_iOS.png" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="album/album.rss" title="album" />
     </channel>
 </rss>
