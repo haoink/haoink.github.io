@@ -10,32 +10,32 @@
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>IMG_2950</title>
-            <link>slides/IMG_2950.html</link>
+            <link>slides/IMG_2950.JPG</link>
             <pubDate>Mon, 25 Dec 2023 22:47:55 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_2950.JPG" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/IMG_2950.JPG" width="629" height="800"/>
+            <media:thumbnail url="thumbs/IMG_2950.JPG" width="134" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_2950.JPG" width="590" height="750"/>
             <guid isPermaLink="false">slides/IMG_2950.JPG</guid>
         </item>
         <item>
             <title>IMG_1975</title>
-            <link>slides/IMG_1975.html</link>
+            <link>slides/IMG_1975.JPG</link>
             <pubDate>Tue, 26 Dec 2023 15:43:59 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_1975.JPG" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/IMG_1975.JPG" width="625" height="800"/>
+            <media:thumbnail url="thumbs/IMG_1975.JPG" width="133" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_1975.JPG" width="586" height="750"/>
             <guid isPermaLink="false">slides/IMG_1975.JPG</guid>
         </item>
         <item>
             <title>IMG_1979</title>
-            <link>slides/IMG_1979.html</link>
+            <link>slides/IMG_1979.JPG</link>
             <pubDate>Wed, 27 Dec 2023 18:48:39 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_1979.JPG" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/IMG_1979.JPG" width="613" height="800"/>
+            <media:thumbnail url="thumbs/IMG_1979.JPG" width="130" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_1979.JPG" width="574" height="750"/>
             <guid isPermaLink="false">slides/IMG_1979.JPG</guid>
         </item>
     </channel>
