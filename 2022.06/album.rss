@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2022.06</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>2022-06-18</title>
+            <link>slides/2022-06-18.html</link>
+            <pubDate>Fri, 29 Dec 2023 19:59:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2022-06-18.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2022-06-18.jpg" width="847" height="800"/>
+            <guid isPermaLink="false">slides/2022-06-18.jpg</guid>
+        </item>
+        <item>
+            <title>2022-06-11</title>
+            <link>slides/2022-06-11.html</link>
+            <pubDate>Fri, 29 Dec 2023 19:59:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2022-06-11.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2022-06-11.jpg" width="672" height="800"/>
+            <guid isPermaLink="false">slides/2022-06-11.jpg</guid>
+        </item>
+        <item>
+            <title>2022-06-04</title>
+            <link>slides/2022-06-04.html</link>
+            <pubDate>Fri, 29 Dec 2023 19:59:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2022-06-04.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2022-06-04.jpg" width="831" height="800"/>
+            <guid isPermaLink="false">slides/2022-06-04.jpg</guid>
+        </item>
+    </channel>
+</rss>
