@@ -9,6 +9,16 @@
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
+            <title>IMG_1985</title>
+            <link>slides/IMG_1985.html</link>
+            <pubDate>Sun, 31 Dec 2023 22:25:43 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1985.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1985.JPG" width="609" height="800"/>
+            <guid isPermaLink="false">slides/IMG_1985.JPG</guid>
+        </item>
+        <item>
             <title>IMG_1981</title>
             <link>slides/IMG_1981.html</link>
             <pubDate>Sat, 30 Dec 2023 18:55:49 +0100</pubDate>
